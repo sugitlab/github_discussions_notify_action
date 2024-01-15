@@ -1,0 +1,2 @@
+# github_discussions_notify_action
+github discussionsの更新通知実験
